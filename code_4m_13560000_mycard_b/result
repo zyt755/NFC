@@ -1,0 +1,20 @@
+reader -> [52] 
+tag    -> 44 00
+reader -> 93 20 
+tag    -> 88 04 72 56 A8
+reader -> 93 70 88 04 72 56 A8 00 E0
+tag    -> 04 DA 17 
+reader -> 95 20
+tag    -> 52 A9 43 80 38 
+reader -> 95 70 52 A9 43 80 38 F0 61
+tag    -> 20 FC 70 
+reader -> E0 50 BC A5 
+tag    -> 0C 75 77 80 02 C1 05 2F 2F 00 35 C7 60 D3
+reader -> D0 11 00 52 A6
+tag    -> 4B C6 78 
+reader -> 0A 00 70 02 40 06 29 06 34 10 01 04 F3 D4
+tag    -> 0A 00 90 AA 53 81 1C 80 85 45 7E DE 2D 82 BA F4 B1 0C 8A 5F 1C
+reader -> 0B 00 72 38 C1 35 B2 FB 49 AE 97 28 7F 56 B9 97 A0 2D D4 CF AE 87 14 F1 2E 22 CE 0B A3 AC 26 90 			BC A4 CC 91 E2
+tag    -> 0B 00 90 94 B2 B9 ED B0 80 6D A9 5A 11 02 D7 63 DD 10 EF CD 3A 29 99 94 44 C9 B2 9B 33 96 35 46 			0A 26 07 E4 3A
+reader -> 0A 00 33 04 00 01 61 B9 C8 5D 63 59 D4 30 90 C3
+tag    -> (3B) (FD) (46) (54) (AB) 
