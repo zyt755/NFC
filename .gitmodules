@@ -1,0 +1,3 @@
+[submodule "gr-nfc"]
+	path = gr-nfc
+	url = https://github.com/zyt755/NFC.git
